@@ -187,6 +187,7 @@
             resize: none;
             background: black;
             z-index: 1 !important; /* Move BEHIND canvas-container (15) in AR mode */
+            pointer-events: none; /* Let clicks pass through to canvas if needed */
         }
         
         #camera-wrapper.fullscreen #camera-handle {

